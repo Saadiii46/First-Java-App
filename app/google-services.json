@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "794718366318",
+    "project_id": "saad-application-89c91",
+    "storage_bucket": "saad-application-89c91.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:794718366318:android:fefb71d13a798cbc0ed47f",
+        "android_client_info": {
+          "package_name": "com.example.saadapplication"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAZDLuN7T3iSLn0ea95Z-kFagVVU3ho_KI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
